@@ -1,1 +1,1 @@
-# fearlessclothing.github.io
+A simple HTML/JS/CSS starter template
