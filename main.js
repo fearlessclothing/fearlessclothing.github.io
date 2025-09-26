@@ -126,7 +126,7 @@ const products = [
         price: 'R599,00',
         colors: [
             { color: '#808080', image: 'hoodie.png' },
-            { color: '#0000FF', image: 'hoodie1 (2).png' },
+            { color: '#0000FF', image: 'hoodie1a.png' },
             { color: '#FF0000', image: 'hoodie2.png' },
             { color: '#FFFF00', image: 'hoodie3.png' },
         ]
