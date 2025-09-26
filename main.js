@@ -125,6 +125,7 @@ const products = [
         name: 'Lotus Hoodie',
         price: 'R599,00',
         colors: [
+            { color: '#808080', image: 'hoodie.png' },
             { color: '#0000FF', image: 'hoodie1.png' },
             { color: '#FF0000', image: 'hoodie2.png' },
             { color: '#FFFF00', image: 'hoodie3.png' },
@@ -134,6 +135,7 @@ const products = [
         name: 'Lotus T-Shirt',
         price: 'R329,00',
         colors: [
+            { color: '#808080', image: 'shirt.png' },
             { color: '#FFFFFF', image: 'shirt1.png' },
             { color: '#000000', image: 'shirt2.png' },
             { color: '#0000FF', image: 'shirt3.png' },
